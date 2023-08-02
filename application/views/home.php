@@ -60,7 +60,7 @@
                             <li>
                                 <a href="#">
                                     <i class="lastudioicon-pin-3-1"></i>
-                                    <span>Bengaluru</span>
+                                    <span>Bengaluruee</span>
                                 </a>
                             </li>
                         </ul>
